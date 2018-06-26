@@ -10,8 +10,8 @@
 		9AFDA0C320DCBFC500906E25 /* ValueTrackingSlider.h in Headers */ = {isa = PBXBuildFile; fileRef = 9AFDA0C120DCBFC500906E25 /* ValueTrackingSlider.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9AFDA0C620DCBFC500906E25 /* ValueTrackingSlider.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9AFDA0BF20DCBFC500906E25 /* ValueTrackingSlider.framework */; };
 		9AFDA0C720DCBFC500906E25 /* ValueTrackingSlider.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 9AFDA0BF20DCBFC500906E25 /* ValueTrackingSlider.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		9AFDA0D120DCC01200906E25 /* ASValuePopUpView.h in Headers */ = {isa = PBXBuildFile; fileRef = 9AFDA0CD20DCC01200906E25 /* ASValuePopUpView.h */; };
-		9AFDA0D220DCC01200906E25 /* ASValueTrackingSlider.h in Headers */ = {isa = PBXBuildFile; fileRef = 9AFDA0CE20DCC01200906E25 /* ASValueTrackingSlider.h */; };
+		9AFDA0D120DCC01200906E25 /* ASValuePopUpView.h in Headers */ = {isa = PBXBuildFile; fileRef = 9AFDA0CD20DCC01200906E25 /* ASValuePopUpView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9AFDA0D220DCC01200906E25 /* ASValueTrackingSlider.h in Headers */ = {isa = PBXBuildFile; fileRef = 9AFDA0CE20DCC01200906E25 /* ASValueTrackingSlider.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9AFDA0D320DCC01200906E25 /* ASValuePopUpView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AFDA0CF20DCC01200906E25 /* ASValuePopUpView.m */; };
 		9AFDA0D420DCC01200906E25 /* ASValueTrackingSlider.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AFDA0D020DCC01200906E25 /* ASValueTrackingSlider.m */; };
 		E72E05DB18E9EA430082D173 /* ASValuePopUpView.m in Sources */ = {isa = PBXBuildFile; fileRef = E72E05D818E9EA430082D173 /* ASValuePopUpView.m */; };
